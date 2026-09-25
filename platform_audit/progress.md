@@ -21,3 +21,10 @@ Plan: three rounds of audit -> fix -> verify. Approved by Yasmin on 2026-09-25.
 - [x] Batch 1 fixed + Base44 checkpoint "Round 1 batch 1": RoleRouteGuard (parents -> /parent, no-role accounts only see "/", uploaders admin-only, /jobs admin-only); Library band filter keeps all-band books; favourites star follows replaced books; plain viewer contents jump + error note; download opens new tab; load error message.
 - [ ] Batch 2 (content: placeholders, fake data, seasons, British spelling, SOS numbers, SEO) — in progress.
 - Needs Yasmin: RLS on child data (R-01..R-04), safeguarding gate for hw1 body-safety (L-02), re-upload 13 files (L-01), duplicate curriculum months (C-03..C-06), 7 wrong-hemisphere months (C-02).
+- [x] Yasmin approved (2026-09-25): child-data RLS, hw1 body-safety gate, archive duplicate months, Term N · Week k labels.
+- [x] RLS applied on Child, TeacherNote, Classroom, ParentObservation, FamilyEcho, ParentNotification, WeeklyGrowthReport, ParentMessage, ChildGrowthRecord, ChildMilestoneObservation, ChildPortfolioEntry. Role "user" removed from all create/update lists.
+- [x] hw1 safeguarding: 8 FinnipedResource + 6 FinnipedPlacement set safeguarding_gated=true, audience=teacher_parent_only.
+- [x] Added is_archived to CurriculumMonth/Week; archived 55 surplus months, their 220 weeks, and 20 duplicate January weeks (is_master=false). Nothing deleted.
+- [ ] Code: curriculum pages filter is_archived, Term N · Week k labels, loading/error states, generator prompt (C-01).
+- Known gap: parents can still read ParentMessage/growth/milestone/portfolio/TeacherNote rows of other children via the API (no parent field on those rows). Round 2: add parent_user_ids and backfill.
+- Known gap: School Admin account has no school_id, so it now sees no children.
