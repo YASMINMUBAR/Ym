@@ -35,3 +35,5 @@ Plan: three rounds of audit -> fix -> verify. Approved by Yasmin on 2026-09-25.
 - [ ] Security/routing/speed fixes (backend function auth, sidebar dead links, lazy-loaded pages, /parent/admin removed) — in progress.
 - [ ] Remaining curriculum/library/dashboard/season fixes — in progress.
 - [ ] Round 2 re-audit (read-only) after both finish.
+- [x] Yasmin gave standing approval for all edits (2026-09-25); still no deleting, no publishing, no passwords.
+- [x] L-06: archived 5 older Numenature books. L-05: moved 14 Bodywise/Artelier books to the age band in their titles.
