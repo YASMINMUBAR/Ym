@@ -29,3 +29,4 @@ Plan: three rounds of audit -> fix -> verify. Approved by Yasmin on 2026-09-25.
 - Known gap: parents can still read ParentMessage/growth/milestone/portfolio/TeacherNote rows of other children via the API (no parent field on those rows). Round 2: add parent_user_ids and backfill.
 - Known gap: School Admin account has no school_id, so it now sees no children.
 - [x] Batch 2 content fixes done + checkpoint 'Round 1 batch 2'. See round1/content_fixes.md.
+- [x] Batch 3 curriculum code done + checkpoint 'Round 1 batch 3'. See round1/curriculum_fixes.md. ROUND 1 COMPLETE.
