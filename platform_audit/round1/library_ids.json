@@ -1,0 +1,1836 @@
+{
+  "generated": "2026-09-25",
+  "app": "69f71ad98aafbe26ce61e092",
+  "published_no_band": [
+    {
+      "id": "6ab56cdd2a86c646e54c6499",
+      "title": "Numenature What's Inside",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_WhatsInside.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56cb5456b6a088c5a9ab4",
+      "title": "Numenature Start Here and QA Certificate",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_StartHere_QACertificate.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56c7cbb4a3ae42b8fda14",
+      "title": "Numenature Maths Games Pack",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_MathsGamesPack.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56c6774db097276ade355",
+      "title": "Numenature Every Child a Mathematician Inclusion Guide",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_EveryChildAMathematician_InclusionGuide.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56c653b589856d9a798d6",
+      "title": "Numenature Display and Poster Pack A4",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_DisplayAndPosterPack_A4.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56affe39ba50451f960fc",
+      "title": "Numenature Display and Poster Pack A3",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_DisplayAndPosterPack_A3.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56ac0baa757b3d123c8e0",
+      "title": "Numenature Concept Book 12 How Many Do You See?",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_ConceptBook_12_HowManyDoYouSee.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56abeefaffd36bda8c6d8",
+      "title": "Numenature Concept Book 11 Fair Shares for Friends",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_ConceptBook_11_FairSharesForFriends.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56aba308f944a1348aa87",
+      "title": "Numenature Concept Book 10 Tall and Short",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_ConceptBook_10_TallAndShort.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56ab76baa0a8b7da8a6c2",
+      "title": "Numenature Concept Book 09 Count With Me to Five",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_ConceptBook_09_CountWithMeToFive.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56ab56a07b6d2d9bf4ec0",
+      "title": "Numenature Concept Book 08 Will It Fit?",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_ConceptBook_08_WillItFit.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56ab20007328024fe670e",
+      "title": "Numenature Concept Book 07 Under and Over",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_ConceptBook_07_UnderAndOver.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56ab0c5abbe1e7132611b",
+      "title": "Numenature Concept Book 06 Round and Long",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_ConceptBook_06_RoundAndLong.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56aae3e8d8fa796c4076d",
+      "title": "Numenature Concept Book 05 Leaf, Stone, Leaf, Stone",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_ConceptBook_05_LeafStoneLeafStone.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56aaa52c1c269cf9a63d7",
+      "title": "Numenature Concept Book 04 Heavy and Light",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_ConceptBook_04_HeavyAndLight.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56aa82029f4153a5657df",
+      "title": "Numenature Concept Book 03 Same and Different",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_ConceptBook_03_SameAndDifferent.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56aa62bd55c6f50b7593c",
+      "title": "Numenature Concept Book 02 One Stone, Two Stones",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_ConceptBook_02_OneStoneTwoStones.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56aa45dc1380e9b3181aa",
+      "title": "Numenature Concept Book 01 Big and Small",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_ConceptBook_01_BigAndSmall.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56aa1c4f73517346faf6a",
+      "title": "Numenature Concept and Curriculum Guide",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_ConceptAndCurriculumGuide.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6ab56a9d382559697351106f",
+      "title": "Numenature Assessment and Tracking Pack",
+      "pillar": "Numenature",
+      "bundle_version": "v3",
+      "band_label": "All bands / birth–6",
+      "source_path": "Finniped_QA_Rebuild_2026/03_Rebuilt_Books/Numenature_AssessmentAndTrackingPack.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d186",
+      "title": "WordWise Lighthouse THE LIGHTHOUSE MANUAL Every Lesson Day by Day",
+      "pillar": "Wordwise Lighthouse",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "04_Image_Library/Toddlers/Numenature/_Finniped_WordWise_Lighthouse/WordWise_Lighthouse_THE_LIGHTHOUSE_MANUAL_Every_Lesson_Day_by_Day.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d187",
+      "title": "WordWise Lighthouse 9 Picture-Word Worksheets",
+      "pillar": "Wordwise Lighthouse",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "04_Image_Library/Toddlers/Numenature/_Finniped_WordWise_Lighthouse/WordWise_Lighthouse_9_Picture-Word_Worksheets.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6a5108b11835880523ea825b",
+      "title": "Wordwise Picture-Word Worksheets",
+      "pillar": "Wordwise",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "04_Image_Library/Toddlers/Numenature/WordWise/02_Teaching_Resources/Wordwise_Picture-Word_Worksheets.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6a510825aa8bbeaeaf17fdc8",
+      "title": "Wordwise The Decodable Readers Plain Print",
+      "pillar": "Wordwise",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "04_Image_Library/Toddlers/Numenature/WordWise/02_Teaching_Resources/Wordwise_The_Decodable_Readers_Plain_Print.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6a51080c7dd5540f9acce4b4",
+      "title": "Wordwise The Decodable Readers",
+      "pillar": "Wordwise",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "04_Image_Library/Toddlers/Numenature/WordWise/02_Teaching_Resources/Wordwise_The_Decodable_Readers.pdf",
+      "proposed_band": "",
+      "confidence": "high",
+      "basis": "genuinely cross-band (band_label All bands / birth-6); keep empty band and fix the Library band filter to include cross-band items"
+    },
+    {
+      "id": "6a5107887a8929d6ae38a562",
+      "title": "Numenature 01 Student Workbook",
+      "pillar": "Treasure Books",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "02_Bundled_Books/Toddlers/Numenature_Book_Set/Numenature_01_Student_Workbook.pdf",
+      "proposed_band": "little_sprouts",
+      "confidence": "low",
+      "basis": "source_path under 02_Bundled_Books/Toddlers or 04_Image_Library/Toddlers; confirm with author, otherwise keep cross-band"
+    },
+    {
+      "id": "6a51078583a5b06a934ad386",
+      "title": "Numenature 02 Teacher Guide",
+      "pillar": "Treasure Books",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "02_Bundled_Books/Toddlers/Numenature_Book_Set/Numenature_02_Teacher_Guide.pdf",
+      "proposed_band": "little_sprouts",
+      "confidence": "low",
+      "basis": "source_path under 02_Bundled_Books/Toddlers or 04_Image_Library/Toddlers; confirm with author, otherwise keep cross-band"
+    },
+    {
+      "id": "6a5106e65fc8ff45ec08dde9",
+      "title": "My First Wordwise Treasure Book",
+      "pillar": "Treasure Books",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "02_Bundled_Books/Toddlers/My_First_Wordwise_Treasure_Book.pdf",
+      "proposed_band": "little_sprouts",
+      "confidence": "low",
+      "basis": "source_path under 02_Bundled_Books/Toddlers or 04_Image_Library/Toddlers; confirm with author, otherwise keep cross-band"
+    },
+    {
+      "id": "6a5106e495657335bae375d5",
+      "title": "My First Wonderwild Treasure Book",
+      "pillar": "Treasure Books",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "02_Bundled_Books/Toddlers/My_First_Wonderwild_Treasure_Book.pdf",
+      "proposed_band": "little_sprouts",
+      "confidence": "low",
+      "basis": "source_path under 02_Bundled_Books/Toddlers or 04_Image_Library/Toddlers; confirm with author, otherwise keep cross-band"
+    },
+    {
+      "id": "6a5106e109b01aaa3571f6ac",
+      "title": "My First Numenature Treasure Book",
+      "pillar": "Treasure Books",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "02_Bundled_Books/Toddlers/My_First_Numenature_Treasure_Book.pdf",
+      "proposed_band": "little_sprouts",
+      "confidence": "low",
+      "basis": "source_path under 02_Bundled_Books/Toddlers or 04_Image_Library/Toddlers; confirm with author, otherwise keep cross-band"
+    },
+    {
+      "id": "6a5106df583462989f06b669",
+      "title": "My First Lifecraft Treasure Book",
+      "pillar": "Treasure Books",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "02_Bundled_Books/Toddlers/My_First_Lifecraft_Treasure_Book.pdf",
+      "proposed_band": "little_sprouts",
+      "confidence": "low",
+      "basis": "source_path under 02_Bundled_Books/Toddlers or 04_Image_Library/Toddlers; confirm with author, otherwise keep cross-band"
+    },
+    {
+      "id": "6a5106dde9224d0391334833",
+      "title": "My First Heartwise Treasure Book",
+      "pillar": "Treasure Books",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "02_Bundled_Books/Toddlers/My_First_Heartwise_Treasure_Book.pdf",
+      "proposed_band": "little_sprouts",
+      "confidence": "low",
+      "basis": "source_path under 02_Bundled_Books/Toddlers or 04_Image_Library/Toddlers; confirm with author, otherwise keep cross-band"
+    },
+    {
+      "id": "6a5106dac1582b04613654d0",
+      "title": "My First Forestwise Treasure Book",
+      "pillar": "Treasure Books",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "02_Bundled_Books/Toddlers/My_First_Forestwise_Treasure_Book.pdf",
+      "proposed_band": "little_sprouts",
+      "confidence": "low",
+      "basis": "source_path under 02_Bundled_Books/Toddlers or 04_Image_Library/Toddlers; confirm with author, otherwise keep cross-band"
+    },
+    {
+      "id": "6a5106d746f75d333ba7e007",
+      "title": "My First Bodywise Treasure Book",
+      "pillar": "Treasure Books",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "02_Bundled_Books/Toddlers/My_First_Bodywise_Treasure_Book.pdf",
+      "proposed_band": "little_sprouts",
+      "confidence": "low",
+      "basis": "source_path under 02_Bundled_Books/Toddlers or 04_Image_Library/Toddlers; confirm with author, otherwise keep cross-band"
+    },
+    {
+      "id": "6a5106d5ea9452bf56d000a3",
+      "title": "My First Artelier Treasure Book",
+      "pillar": "Treasure Books",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "02_Bundled_Books/Toddlers/My_First_Artelier_Treasure_Book.pdf",
+      "proposed_band": "little_sprouts",
+      "confidence": "low",
+      "basis": "source_path under 02_Bundled_Books/Toddlers or 04_Image_Library/Toddlers; confirm with author, otherwise keep cross-band"
+    },
+    {
+      "id": "6a5106c9a2c3cd0c53529c76",
+      "title": "Numinature Step One Workbook 42 Weeks",
+      "pillar": "Numinature Step One",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "04_Image_Library/Toddlers/Numenature/_Numinature_Step_One/02_Workbook/Numinature_Step_One_Workbook_42_Weeks.pdf",
+      "proposed_band": "little_sprouts",
+      "confidence": "low",
+      "basis": "source_path under 02_Bundled_Books/Toddlers or 04_Image_Library/Toddlers; confirm with author, otherwise keep cross-band"
+    },
+    {
+      "id": "6a5106c39a677c0f240717c2",
+      "title": "Numinature Step One Teacher Guide 42 Weeks",
+      "pillar": "Numinature Step One",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "04_Image_Library/Toddlers/Numenature/_Numinature_Step_One/01_Teacher_Guide/Numinature_Step_One_Teacher_Guide_42_Weeks.pdf",
+      "proposed_band": "little_sprouts",
+      "confidence": "low",
+      "basis": "source_path under 02_Bundled_Books/Toddlers or 04_Image_Library/Toddlers; confirm with author, otherwise keep cross-band"
+    },
+    {
+      "id": "6a5106b5424dc4676d56a5d0",
+      "title": "Numinature Step One Session and Lesson Bank 126 Sessions",
+      "pillar": "Numinature Step One",
+      "bundle_version": null,
+      "band_label": "All bands / birth–6",
+      "source_path": "04_Image_Library/Toddlers/Numenature/_Numinature_Step_One/01a_Session_Lesson_Bank/Numinature_Step_One_Session_and_Lesson_Bank_126_Sessions.pdf",
+      "proposed_band": "little_sprouts",
+      "confidence": "low",
+      "basis": "source_path under 02_Bundled_Books/Toddlers or 04_Image_Library/Toddlers; confirm with author, otherwise keep cross-band"
+    }
+  ],
+  "broken_file_url": [
+    {
+      "id": "6a5140e41eea9dfbfb66d159",
+      "title": "Wordwise LittleSprouts 2-3y Teacher Guide",
+      "pillar": "Wordwise",
+      "band": "little_sprouts",
+      "file_url": "https://media.base44.com/files/public/69f71ad98aafbe26ce61e092/files/wordwise/little_sprouts/teacher-guide__wordwise-littlesprouts-2-3y-teacher-guide.pdf",
+      "http_status": 403,
+      "note": "media.base44.com/files/public/<app>/files/wordwise/... returns 403 AccessDenied (CloudFront) on HEAD and GET"
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d15b",
+      "title": "Wordwise LittleSprouts 2-3y Take-Home Workbook",
+      "pillar": "Wordwise",
+      "band": "little_sprouts",
+      "file_url": "https://media.base44.com/files/public/69f71ad98aafbe26ce61e092/files/wordwise/little_sprouts/workbook__wordwise-littlesprouts-2-3y-take-home-workbook.pdf",
+      "http_status": 403,
+      "note": "media.base44.com/files/public/<app>/files/wordwise/... returns 403 AccessDenied (CloudFront) on HEAD and GET"
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d15d",
+      "title": "Wordwise LittleWonders 3-4y Session Lesson Bank",
+      "pillar": "Wordwise",
+      "band": "little_wonders",
+      "file_url": "https://media.base44.com/files/public/69f71ad98aafbe26ce61e092/files/wordwise/little_wonders/lesson-plan__wordwise-littlewonders-3-4y-session-lesson-bank.pdf",
+      "http_status": 403,
+      "note": "media.base44.com/files/public/<app>/files/wordwise/... returns 403 AccessDenied (CloudFront) on HEAD and GET"
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d165",
+      "title": "Wordwise LittleWonders 3-4y Teacher Guide",
+      "pillar": "Wordwise",
+      "band": "little_wonders",
+      "file_url": "https://media.base44.com/files/public/69f71ad98aafbe26ce61e092/files/wordwise/little_wonders/teacher-guide__wordwise-littlewonders-3-4y-teacher-guide.pdf",
+      "http_status": 403,
+      "note": "media.base44.com/files/public/<app>/files/wordwise/... returns 403 AccessDenied (CloudFront) on HEAD and GET"
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d167",
+      "title": "Wordwise LittleWonders 3-4y Take-Home Workbook",
+      "pillar": "Wordwise",
+      "band": "little_wonders",
+      "file_url": "https://media.base44.com/files/public/69f71ad98aafbe26ce61e092/files/wordwise/little_wonders/workbook__wordwise-littlewonders-3-4y-take-home-workbook.pdf",
+      "http_status": 403,
+      "note": "media.base44.com/files/public/<app>/files/wordwise/... returns 403 AccessDenied (CloudFront) on HEAD and GET"
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d169",
+      "title": "Wordwise PrePrimaryPlus 5-6y Session Lesson Bank",
+      "pillar": "Wordwise",
+      "band": "pre_primary",
+      "file_url": "https://media.base44.com/files/public/69f71ad98aafbe26ce61e092/files/wordwise/pre_primary/lesson-plan__wordwise-preprimaryplus-5-6y-session-lesson-bank.pdf",
+      "http_status": 403,
+      "note": "media.base44.com/files/public/<app>/files/wordwise/... returns 403 AccessDenied (CloudFront) on HEAD and GET"
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d171",
+      "title": "Wordwise PrePrimaryPlus 5-6y Teacher Guide",
+      "pillar": "Wordwise",
+      "band": "pre_primary",
+      "file_url": "https://media.base44.com/files/public/69f71ad98aafbe26ce61e092/files/wordwise/pre_primary/teacher-guide__wordwise-preprimaryplus-5-6y-teacher-guide.pdf",
+      "http_status": 403,
+      "note": "media.base44.com/files/public/<app>/files/wordwise/... returns 403 AccessDenied (CloudFront) on HEAD and GET"
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d173",
+      "title": "Wordwise PrePrimaryPlus 5-6y Take-Home Workbook",
+      "pillar": "Wordwise",
+      "band": "pre_primary",
+      "file_url": "https://media.base44.com/files/public/69f71ad98aafbe26ce61e092/files/wordwise/pre_primary/workbook__wordwise-preprimaryplus-5-6y-take-home-workbook.pdf",
+      "http_status": 403,
+      "note": "media.base44.com/files/public/<app>/files/wordwise/... returns 403 AccessDenied (CloudFront) on HEAD and GET"
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d175",
+      "title": "Wordwise TinyRoots 6m-2y Session Lesson Bank",
+      "pillar": "Wordwise",
+      "band": "tiny_roots",
+      "file_url": "https://media.base44.com/files/public/69f71ad98aafbe26ce61e092/files/wordwise/tiny_roots/lesson-plan__wordwise-tinyroots-6m-2y-session-lesson-bank.pdf",
+      "http_status": 403,
+      "note": "media.base44.com/files/public/<app>/files/wordwise/... returns 403 AccessDenied (CloudFront) on HEAD and GET"
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d179",
+      "title": "Wordwise TinyRoots 6m-2y Teacher Guide",
+      "pillar": "Wordwise",
+      "band": "tiny_roots",
+      "file_url": "https://media.base44.com/files/public/69f71ad98aafbe26ce61e092/files/wordwise/tiny_roots/teacher-guide__wordwise-tinyroots-6m-2y-teacher-guide.pdf",
+      "http_status": 403,
+      "note": "media.base44.com/files/public/<app>/files/wordwise/... returns 403 AccessDenied (CloudFront) on HEAD and GET"
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d17b",
+      "title": "Wordwise TinyRoots 6m-2y Activity Workbook",
+      "pillar": "Wordwise",
+      "band": "tiny_roots",
+      "file_url": "https://media.base44.com/files/public/69f71ad98aafbe26ce61e092/files/wordwise/tiny_roots/workbook__wordwise-tinyroots-6m-2y-activity-workbook.pdf",
+      "http_status": 403,
+      "note": "media.base44.com/files/public/<app>/files/wordwise/... returns 403 AccessDenied (CloudFront) on HEAD and GET"
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d186",
+      "title": "WordWise Lighthouse THE LIGHTHOUSE MANUAL Every Lesson Day by Day",
+      "pillar": "Wordwise Lighthouse",
+      "band": "",
+      "file_url": "https://media.base44.com/files/public/69f71ad98aafbe26ce61e092/files/wordwise-lighthouse/_all-bands/teacher-guide__wordwise-lighthouse-the-lighthouse-manual-every-lesson-day-b.pdf",
+      "http_status": 403,
+      "note": "media.base44.com/files/public/<app>/files/wordwise/... returns 403 AccessDenied (CloudFront) on HEAD and GET"
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d187",
+      "title": "WordWise Lighthouse 9 Picture-Word Worksheets",
+      "pillar": "Wordwise Lighthouse",
+      "band": "",
+      "file_url": "https://media.base44.com/files/public/69f71ad98aafbe26ce61e092/files/wordwise-lighthouse/_all-bands/worksheet__wordwise-lighthouse-9-picture-word-worksheets.pdf",
+      "http_status": 403,
+      "note": "media.base44.com/files/public/<app>/files/wordwise/... returns 403 AccessDenied (CloudFront) on HEAD and GET"
+    }
+  ],
+  "published_no_contents": [
+    {
+      "id": "6a5140e41eea9dfbfb66d159",
+      "title": "Wordwise LittleSprouts 2-3y Teacher Guide",
+      "pillar": "Wordwise",
+      "pages": 135
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d15b",
+      "title": "Wordwise LittleSprouts 2-3y Take-Home Workbook",
+      "pillar": "Wordwise",
+      "pages": 15
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d15d",
+      "title": "Wordwise LittleWonders 3-4y Session Lesson Bank",
+      "pillar": "Wordwise",
+      "pages": 322
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d165",
+      "title": "Wordwise LittleWonders 3-4y Teacher Guide",
+      "pillar": "Wordwise",
+      "pages": 152
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d167",
+      "title": "Wordwise LittleWonders 3-4y Take-Home Workbook",
+      "pillar": "Wordwise",
+      "pages": 15
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d169",
+      "title": "Wordwise PrePrimaryPlus 5-6y Session Lesson Bank",
+      "pillar": "Wordwise",
+      "pages": 437
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d171",
+      "title": "Wordwise PrePrimaryPlus 5-6y Teacher Guide",
+      "pillar": "Wordwise",
+      "pages": 168
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d173",
+      "title": "Wordwise PrePrimaryPlus 5-6y Take-Home Workbook",
+      "pillar": "Wordwise",
+      "pages": 14
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d175",
+      "title": "Wordwise TinyRoots 6m-2y Session Lesson Bank",
+      "pillar": "Wordwise",
+      "pages": 224
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d179",
+      "title": "Wordwise TinyRoots 6m-2y Teacher Guide",
+      "pillar": "Wordwise",
+      "pages": 128
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d17b",
+      "title": "Wordwise TinyRoots 6m-2y Activity Workbook",
+      "pillar": "Wordwise",
+      "pages": 20
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d186",
+      "title": "WordWise Lighthouse THE LIGHTHOUSE MANUAL Every Lesson Day by Day",
+      "pillar": "Wordwise Lighthouse",
+      "pages": 506
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d187",
+      "title": "WordWise Lighthouse 9 Picture-Word Worksheets",
+      "pillar": "Wordwise Lighthouse",
+      "pages": 37
+    },
+    {
+      "id": "6a51091d7951f63ab3ef6663",
+      "title": "Wordwise LittleSprouts 2-3y Session Lesson Bank",
+      "pillar": "Wordwise",
+      "pages": 287
+    },
+    {
+      "id": "6a5108fd851d40cd510902df",
+      "title": "Wordwise BrightBloomers 4-5y Take-Home Workbook",
+      "pillar": "Wordwise",
+      "pages": 15
+    },
+    {
+      "id": "6a5108f10e2d9aac01f1f03f",
+      "title": "Wordwise BrightBloomers 4-5y Teacher Guide",
+      "pillar": "Wordwise",
+      "pages": 165
+    },
+    {
+      "id": "6a5108cb02980c464f35dd24",
+      "title": "Wordwise BrightBloomers 4-5y Session Lesson Bank",
+      "pillar": "Wordwise",
+      "pages": 434
+    },
+    {
+      "id": "6a5108b11835880523ea825b",
+      "title": "Wordwise Picture-Word Worksheets",
+      "pillar": "Wordwise",
+      "pages": 28
+    },
+    {
+      "id": "6a510825aa8bbeaeaf17fdc8",
+      "title": "Wordwise The Decodable Readers Plain Print",
+      "pillar": "Wordwise",
+      "pages": 620
+    },
+    {
+      "id": "6a51080c7dd5540f9acce4b4",
+      "title": "Wordwise The Decodable Readers",
+      "pillar": "Wordwise",
+      "pages": 620
+    },
+    {
+      "id": "6a5107c633a6952854afa414",
+      "title": "Wonderwild Nature Workbook 1 Infants 0-18m",
+      "pillar": "Wonderwild",
+      "pages": 57
+    },
+    {
+      "id": "6a5107c1c48f7de8724d9070",
+      "title": "Wonderwild Session Lesson Bank 1 Infants 0-18m",
+      "pillar": "Wonderwild",
+      "pages": 64
+    },
+    {
+      "id": "6a5107be5168111a2165a079",
+      "title": "Wonderwild Nature Workbook 5 Kindergarten 5-6y",
+      "pillar": "Wonderwild",
+      "pages": 57
+    },
+    {
+      "id": "6a5107b9c72c7a77945efe29",
+      "title": "Wonderwild Session Lesson Bank 5 Kindergarten 5-6y",
+      "pillar": "Wonderwild",
+      "pages": 64
+    },
+    {
+      "id": "6a5107b6dede7b97f47a80b7",
+      "title": "Wonderwild Nature Workbook 3 Nursery 2.5-4y",
+      "pillar": "Wonderwild",
+      "pages": 57
+    },
+    {
+      "id": "6a5107aeb652099c8204b856",
+      "title": "Wonderwild Session Lesson Bank 3 Nursery 2.5-4y",
+      "pillar": "Wonderwild",
+      "pages": 64
+    },
+    {
+      "id": "6a5107aba04b7a487e4d56b4",
+      "title": "Wonderwild Nature Workbook 2 Toddlers 18-30m",
+      "pillar": "Wonderwild",
+      "pages": 57
+    },
+    {
+      "id": "6a5107a5a6b0f152e19e45ae",
+      "title": "Wonderwild Session Lesson Bank 2 Toddlers 18-30m",
+      "pillar": "Wonderwild",
+      "pages": 64
+    },
+    {
+      "id": "6a5107a2505d3ebd5408089e",
+      "title": "Wonderwild Nature Workbook 4 Preschool 4-5y",
+      "pillar": "Wonderwild",
+      "pages": 57
+    },
+    {
+      "id": "6a51079c61ab60f73e4bcc7e",
+      "title": "Wonderwild Session Lesson Bank 4 Preschool 4-5y",
+      "pillar": "Wonderwild",
+      "pages": 64
+    },
+    {
+      "id": "6a5107887a8929d6ae38a562",
+      "title": "Numenature 01 Student Workbook",
+      "pillar": "Treasure Books",
+      "pages": 13
+    },
+    {
+      "id": "6a51078583a5b06a934ad386",
+      "title": "Numenature 02 Teacher Guide",
+      "pillar": "Treasure Books",
+      "pages": 30
+    },
+    {
+      "id": "6a5106e65fc8ff45ec08dde9",
+      "title": "My First Wordwise Treasure Book",
+      "pillar": "Treasure Books",
+      "pages": 5
+    },
+    {
+      "id": "6a5106e495657335bae375d5",
+      "title": "My First Wonderwild Treasure Book",
+      "pillar": "Treasure Books",
+      "pages": 5
+    },
+    {
+      "id": "6a5106e109b01aaa3571f6ac",
+      "title": "My First Numenature Treasure Book",
+      "pillar": "Treasure Books",
+      "pages": 5
+    },
+    {
+      "id": "6a5106df583462989f06b669",
+      "title": "My First Lifecraft Treasure Book",
+      "pillar": "Treasure Books",
+      "pages": 5
+    },
+    {
+      "id": "6a5106dde9224d0391334833",
+      "title": "My First Heartwise Treasure Book",
+      "pillar": "Treasure Books",
+      "pages": 2
+    },
+    {
+      "id": "6a5106dac1582b04613654d0",
+      "title": "My First Forestwise Treasure Book",
+      "pillar": "Treasure Books",
+      "pages": 6
+    },
+    {
+      "id": "6a5106d746f75d333ba7e007",
+      "title": "My First Bodywise Treasure Book",
+      "pillar": "Treasure Books",
+      "pages": 5
+    },
+    {
+      "id": "6a5106d5ea9452bf56d000a3",
+      "title": "My First Artelier Treasure Book",
+      "pillar": "Treasure Books",
+      "pages": 5
+    },
+    {
+      "id": "6a5106c9a2c3cd0c53529c76",
+      "title": "Numinature Step One Workbook 42 Weeks",
+      "pillar": "Numinature Step One",
+      "pages": 172
+    },
+    {
+      "id": "6a5106c39a677c0f240717c2",
+      "title": "Numinature Step One Teacher Guide 42 Weeks",
+      "pillar": "Numinature Step One",
+      "pages": 203
+    },
+    {
+      "id": "6a5106b5424dc4676d56a5d0",
+      "title": "Numinature Step One Session and Lesson Bank 126 Sessions",
+      "pillar": "Numinature Step One",
+      "pages": 250
+    },
+    {
+      "id": "6a51055d07de3b0a41cad541",
+      "title": "Lifecraft Skills Workbook 01 Infants 0-18m",
+      "pillar": "Lifecraft",
+      "pages": 37
+    },
+    {
+      "id": "6a510557445d4cf68ca026ec",
+      "title": "Lifecraft Session Bank 01 Infants 0-18m",
+      "pillar": "Lifecraft",
+      "pages": 80
+    },
+    {
+      "id": "6a5105514d9c2e45a240c398",
+      "title": "Lifecraft Skills Workbook 05 Kindergarten Upper 5-6y",
+      "pillar": "Lifecraft",
+      "pages": 37
+    },
+    {
+      "id": "6a51054b6e9f28f9d59c4908",
+      "title": "Lifecraft Session Bank 05 Kindergarten Upper 5-6y",
+      "pillar": "Lifecraft",
+      "pages": 103
+    },
+    {
+      "id": "6a5105442eb01f80b84be8b5",
+      "title": "Lifecraft Skills Workbook 03 Pre-primary 3-4y",
+      "pillar": "Lifecraft",
+      "pages": 37
+    },
+    {
+      "id": "6a51053d4ba6ee89901fd287",
+      "title": "Lifecraft Session Bank 03 Pre-primary 3-4y",
+      "pillar": "Lifecraft",
+      "pages": 79
+    },
+    {
+      "id": "6a510535589d8592198d78f2",
+      "title": "Lifecraft Skills Workbook 02 Toddlers 18m-3y",
+      "pillar": "Lifecraft",
+      "pages": 37
+    },
+    {
+      "id": "6a51052f1da7e9d88ec826c4",
+      "title": "Lifecraft Session Bank 02 Toddlers 18m-3y",
+      "pillar": "Lifecraft",
+      "pages": 81
+    },
+    {
+      "id": "6a51052841d9696b19e5713a",
+      "title": "Lifecraft Skills Workbook 04 Kindergarten Lower 4-5y",
+      "pillar": "Lifecraft",
+      "pages": 40
+    },
+    {
+      "id": "6a51052261469f40071aef25",
+      "title": "Lifecraft Session Bank 04 Kindergarten Lower 4-5y",
+      "pillar": "Lifecraft",
+      "pages": 97
+    },
+    {
+      "id": "6a51033dde4636ce95f0c98b",
+      "title": "Forestwise Forest Journal 01 Infants 0-18m",
+      "pillar": "Forestwise",
+      "pages": 57
+    },
+    {
+      "id": "6a510334291607cc51a400bb",
+      "title": "Forestwise Session Bank 01 Infants 0-18m",
+      "pillar": "Forestwise",
+      "pages": 82
+    },
+    {
+      "id": "6a510328dfd20d355cd56c4e",
+      "title": "Forestwise Forest Journal 05 Kindergarten 5-6y",
+      "pillar": "Forestwise",
+      "pages": 61
+    },
+    {
+      "id": "6a51031e6e0a9adba189a084",
+      "title": "Forestwise Session Bank 05 Kindergarten 5-6y",
+      "pillar": "Forestwise",
+      "pages": 82
+    },
+    {
+      "id": "6a51030dc45103eaf4daf9d7",
+      "title": "Forestwise Forest Journal 03 Nursery 3-4y",
+      "pillar": "Forestwise",
+      "pages": 60
+    },
+    {
+      "id": "6a510305380b42fdc9d60e1a",
+      "title": "Forestwise Session Bank 03 Nursery 3-4y",
+      "pillar": "Forestwise",
+      "pages": 86
+    },
+    {
+      "id": "6a5102fc9ca1e05a6554624d",
+      "title": "Forestwise Forest Journal 02 Toddlers 18m-3y",
+      "pillar": "Forestwise",
+      "pages": 59
+    },
+    {
+      "id": "6a5102f592e730ecce8a3643",
+      "title": "Forestwise Session Bank 02 Toddlers 18m-3y",
+      "pillar": "Forestwise",
+      "pages": 83
+    },
+    {
+      "id": "6a5102ed8d59400f5880c680",
+      "title": "Forestwise Forest Journal 04 Preschool 4-5y",
+      "pillar": "Forestwise",
+      "pages": 58
+    },
+    {
+      "id": "6a5102e5a74f94096cc836fd",
+      "title": "Forestwise Session Bank 04 Preschool 4-5y",
+      "pillar": "Forestwise",
+      "pages": 84
+    },
+    {
+      "id": "6a51028ec15aed83a4636a00",
+      "title": "Bodywise Movement Workbook 01 Infants 0-1y",
+      "pillar": "Bodywise",
+      "pages": 44
+    },
+    {
+      "id": "6a51028625a8423d4331a58a",
+      "title": "Bodywise Session Bank 01 Infants 0-1y",
+      "pillar": "Bodywise",
+      "pages": 115
+    },
+    {
+      "id": "6a51027d2992424296287228",
+      "title": "Bodywise Movement Workbook 05 Kindergarten 4-5y",
+      "pillar": "Bodywise",
+      "pages": 49
+    },
+    {
+      "id": "6a51027847fd072abce14128",
+      "title": "Bodywise Session Bank 05 Kindergarten 4-5y",
+      "pillar": "Bodywise",
+      "pages": 117
+    },
+    {
+      "id": "6a510273ea93fca4eae0e6f9",
+      "title": "Bodywise Movement Workbook 03 Younger 2-3y",
+      "pillar": "Bodywise",
+      "pages": 37
+    },
+    {
+      "id": "6a51026d3ddedb9c3700b516",
+      "title": "Bodywise Session Bank 03 Younger 2-3y",
+      "pillar": "Bodywise",
+      "pages": 101
+    },
+    {
+      "id": "6a51026548addf60ae988543",
+      "title": "Bodywise Movement Workbook 02 Toddlers 1-2y",
+      "pillar": "Bodywise",
+      "pages": 37
+    },
+    {
+      "id": "6a51025cceb2336d44116fe7",
+      "title": "Bodywise Session Bank 02 Toddlers 1-2y",
+      "pillar": "Bodywise",
+      "pages": 86
+    },
+    {
+      "id": "6a510256dfa6e3692f370cbe",
+      "title": "Bodywise Movement Workbook 04 Pre-K 3-4y",
+      "pillar": "Bodywise",
+      "pages": 45
+    },
+    {
+      "id": "6a51024c170707951a8c448c",
+      "title": "Bodywise Session Bank 04 Pre-K 3-4y",
+      "pillar": "Bodywise",
+      "pages": 117
+    },
+    {
+      "id": "6a5102280d3537e81b788997",
+      "title": "Artelier Studio Workbook 01 Infants 0-1y",
+      "pillar": "Artelier",
+      "pages": 71
+    },
+    {
+      "id": "6a51021c3ce285fe66635a12",
+      "title": "Artelier Session Bank 01 Infants 0-1y",
+      "pillar": "Artelier",
+      "pages": 79
+    },
+    {
+      "id": "6a51021538ebc94ddd578c85",
+      "title": "Artelier Studio Workbook 05 Kindergarten 4-6y",
+      "pillar": "Artelier",
+      "pages": 72
+    },
+    {
+      "id": "6a51020ebefc3f7b51bc7c5a",
+      "title": "Artelier Session Bank 05 Kindergarten 4-6y",
+      "pillar": "Artelier",
+      "pages": 98
+    },
+    {
+      "id": "6a5102077893938a5a9415ae",
+      "title": "Artelier Studio Workbook 03 Nursery 2-3y",
+      "pillar": "Artelier",
+      "pages": 72
+    },
+    {
+      "id": "6a5101fead194cd9ef651a85",
+      "title": "Artelier Session Bank 03 Nursery 2-3y",
+      "pillar": "Artelier",
+      "pages": 94
+    },
+    {
+      "id": "6a5101f8678b6ecd62202fe2",
+      "title": "Artelier Studio Workbook 02 Toddlers 1-2y",
+      "pillar": "Artelier",
+      "pages": 72
+    },
+    {
+      "id": "6a5101f0a8deb61b52022c97",
+      "title": "Artelier Session Bank 02 Toddlers 1-2y",
+      "pillar": "Artelier",
+      "pages": 100
+    },
+    {
+      "id": "6a50f87e550c548c460d84f2",
+      "title": "Artelier Studio Workbook 04 Pre-KG 3-4y",
+      "pillar": "Artelier",
+      "pages": 72
+    },
+    {
+      "id": "6a50f87994c83bbc26fec315",
+      "title": "Artelier Session Bank 04 Pre-KG 3-4y",
+      "pillar": "Artelier",
+      "pages": 106
+    }
+  ],
+  "published_short_contents": [
+    {
+      "id": "6ab64707dedb65077542f036",
+      "title": "HeartWise Beginnings: the First 1,000 Days — Tiny Roots",
+      "pages": 37,
+      "contents_entries": 1
+    }
+  ],
+  "published_oversized": [
+    {
+      "id": "6a5140e41eea9dfbfb66d15d",
+      "title": "Wordwise LittleWonders 3-4y Session Lesson Bank",
+      "pages": 322,
+      "mb": 16.2
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d165",
+      "title": "Wordwise LittleWonders 3-4y Teacher Guide",
+      "pages": 152,
+      "mb": 2.7
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d169",
+      "title": "Wordwise PrePrimaryPlus 5-6y Session Lesson Bank",
+      "pages": 437,
+      "mb": 15
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d171",
+      "title": "Wordwise PrePrimaryPlus 5-6y Teacher Guide",
+      "pages": 168,
+      "mb": 2.7
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d175",
+      "title": "Wordwise TinyRoots 6m-2y Session Lesson Bank",
+      "pages": 224,
+      "mb": 13
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d186",
+      "title": "WordWise Lighthouse THE LIGHTHOUSE MANUAL Every Lesson Day by Day",
+      "pages": 506,
+      "mb": 10.5
+    },
+    {
+      "id": "6a51091d7951f63ab3ef6663",
+      "title": "Wordwise LittleSprouts 2-3y Session Lesson Bank",
+      "pages": 287,
+      "mb": 15.1
+    },
+    {
+      "id": "6a5108f10e2d9aac01f1f03f",
+      "title": "Wordwise BrightBloomers 4-5y Teacher Guide",
+      "pages": 165,
+      "mb": 2.7
+    },
+    {
+      "id": "6a5108cb02980c464f35dd24",
+      "title": "Wordwise BrightBloomers 4-5y Session Lesson Bank",
+      "pages": 434,
+      "mb": 14.4
+    },
+    {
+      "id": "6a510825aa8bbeaeaf17fdc8",
+      "title": "Wordwise The Decodable Readers Plain Print",
+      "pages": 620,
+      "mb": 12.3
+    },
+    {
+      "id": "6a51080c7dd5540f9acce4b4",
+      "title": "Wordwise The Decodable Readers",
+      "pages": 620,
+      "mb": 12.4
+    },
+    {
+      "id": "6a5106c9a2c3cd0c53529c76",
+      "title": "Numinature Step One Workbook 42 Weeks",
+      "pages": 172,
+      "mb": 2
+    },
+    {
+      "id": "6a5106c39a677c0f240717c2",
+      "title": "Numinature Step One Teacher Guide 42 Weeks",
+      "pages": 203,
+      "mb": 1.8
+    },
+    {
+      "id": "6a5106b5424dc4676d56a5d0",
+      "title": "Numinature Step One Session and Lesson Bank 126 Sessions",
+      "pages": 250,
+      "mb": 1.8
+    }
+  ],
+  "published_band_title_age_mismatch": [
+    {
+      "id": "6a51027d2992424296287228",
+      "title": "Bodywise Movement Workbook 05 Kindergarten 4-5y",
+      "band": "pre_primary",
+      "band_label": "Pre-Primary Plus 5–6y",
+      "proposed_band": "bright_bloomers",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a51027847fd072abce14128",
+      "title": "Bodywise Session Bank 05 Kindergarten 4-5y",
+      "band": "pre_primary",
+      "band_label": "Pre-Primary Plus 5–6y",
+      "proposed_band": "bright_bloomers",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a510273ea93fca4eae0e6f9",
+      "title": "Bodywise Movement Workbook 03 Younger 2-3y",
+      "band": "little_wonders",
+      "band_label": "Little Wonders 3–4y",
+      "proposed_band": "little_sprouts",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a51026d3ddedb9c3700b516",
+      "title": "Bodywise Session Bank 03 Younger 2-3y",
+      "band": "little_wonders",
+      "band_label": "Little Wonders 3–4y",
+      "proposed_band": "little_sprouts",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a51026548addf60ae988543",
+      "title": "Bodywise Movement Workbook 02 Toddlers 1-2y",
+      "band": "little_sprouts",
+      "band_label": "Little Sprouts 2–3y",
+      "proposed_band": "tiny_roots",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a51025cceb2336d44116fe7",
+      "title": "Bodywise Session Bank 02 Toddlers 1-2y",
+      "band": "little_sprouts",
+      "band_label": "Little Sprouts 2–3y",
+      "proposed_band": "tiny_roots",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a510256dfa6e3692f370cbe",
+      "title": "Bodywise Movement Workbook 04 Pre-K 3-4y",
+      "band": "bright_bloomers",
+      "band_label": "Bright Bloomers 4–5y",
+      "proposed_band": "little_wonders",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a51024c170707951a8c448c",
+      "title": "Bodywise Session Bank 04 Pre-K 3-4y",
+      "band": "bright_bloomers",
+      "band_label": "Bright Bloomers 4–5y",
+      "proposed_band": "little_wonders",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a51021538ebc94ddd578c85",
+      "title": "Artelier Studio Workbook 05 Kindergarten 4-6y",
+      "band": "pre_primary",
+      "band_label": "Pre-Primary Plus 5–6y",
+      "proposed_band": "pre_primary",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a51020ebefc3f7b51bc7c5a",
+      "title": "Artelier Session Bank 05 Kindergarten 4-6y",
+      "band": "pre_primary",
+      "band_label": "Pre-Primary Plus 5–6y",
+      "proposed_band": "pre_primary",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a5102077893938a5a9415ae",
+      "title": "Artelier Studio Workbook 03 Nursery 2-3y",
+      "band": "little_wonders",
+      "band_label": "Little Wonders 3–4y",
+      "proposed_band": "little_sprouts",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a5101fead194cd9ef651a85",
+      "title": "Artelier Session Bank 03 Nursery 2-3y",
+      "band": "little_wonders",
+      "band_label": "Little Wonders 3–4y",
+      "proposed_band": "little_sprouts",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a5101f8678b6ecd62202fe2",
+      "title": "Artelier Studio Workbook 02 Toddlers 1-2y",
+      "band": "little_sprouts",
+      "band_label": "Little Sprouts 2–3y",
+      "proposed_band": "tiny_roots",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a5101f0a8deb61b52022c97",
+      "title": "Artelier Session Bank 02 Toddlers 1-2y",
+      "band": "little_sprouts",
+      "band_label": "Little Sprouts 2–3y",
+      "proposed_band": "tiny_roots",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a50f87e550c548c460d84f2",
+      "title": "Artelier Studio Workbook 04 Pre-KG 3-4y",
+      "band": "bright_bloomers",
+      "band_label": "Bright Bloomers 4–5y",
+      "proposed_band": "little_wonders",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    },
+    {
+      "id": "6a50f87994c83bbc26fec315",
+      "title": "Artelier Session Bank 04 Pre-KG 3-4y",
+      "band": "bright_bloomers",
+      "band_label": "Bright Bloomers 4–5y",
+      "proposed_band": "little_wonders",
+      "note": "band follows series level number, not the age in the title; confirm which is intended"
+    }
+  ],
+  "published_possibly_superseded": [
+    {
+      "id": "6a5107887a8929d6ae38a562",
+      "title": "Numenature 01 Student Workbook",
+      "pillar": "Treasure Books",
+      "note": "older Numenature material still published alongside Numenature v3 (60 books); v3 switch-over archived 94 old Numenature records but not these"
+    },
+    {
+      "id": "6a51078583a5b06a934ad386",
+      "title": "Numenature 02 Teacher Guide",
+      "pillar": "Treasure Books",
+      "note": "older Numenature material still published alongside Numenature v3 (60 books); v3 switch-over archived 94 old Numenature records but not these"
+    },
+    {
+      "id": "6a5106c9a2c3cd0c53529c76",
+      "title": "Numinature Step One Workbook 42 Weeks",
+      "pillar": "Numinature Step One",
+      "note": "older Numenature material still published alongside Numenature v3 (60 books); v3 switch-over archived 94 old Numenature records but not these"
+    },
+    {
+      "id": "6a5106c39a677c0f240717c2",
+      "title": "Numinature Step One Teacher Guide 42 Weeks",
+      "pillar": "Numinature Step One",
+      "note": "older Numenature material still published alongside Numenature v3 (60 books); v3 switch-over archived 94 old Numenature records but not these"
+    },
+    {
+      "id": "6a5106b5424dc4676d56a5d0",
+      "title": "Numinature Step One Session and Lesson Bank 126 Sessions",
+      "pillar": "Numinature Step One",
+      "note": "older Numenature material still published alongside Numenature v3 (60 books); v3 switch-over archived 94 old Numenature records but not these"
+    }
+  ],
+  "safeguarding_gate_lost_in_hw1": [
+    {
+      "old_id": "6a5104d7c7539eea1aef44e0",
+      "old_title": "Heartwise Heart Workbook 5 Pre Primary Plus 5-6y",
+      "old_audience": "teacher_parent_only",
+      "superseded_by": "heartwise__pre_primary__workbook__hw1-my-heartwise-book-pre-primary-plus"
+    },
+    {
+      "old_id": "6a5104bb4899e1ace4f6ab75",
+      "old_title": "HRT-PP-WB",
+      "old_audience": "teacher_parent_only",
+      "superseded_by": "heartwise__pre_primary__workbook__hw1-my-heartwise-book-pre-primary-plus"
+    },
+    {
+      "old_id": "6a5104b75c3c88064ef5f8dd",
+      "old_title": "HRT-PP-TG",
+      "old_audience": "teacher_parent_only",
+      "superseded_by": "heartwise__pre_primary__teacher_guide__hw1-heartwise-educator-s-guide-pre-primary-plus"
+    },
+    {
+      "old_id": "6a5104b31af06885f1586365",
+      "old_title": "HRT-PP-PCK",
+      "old_audience": "teacher_parent_only",
+      "superseded_by": "heartwise__pre_primary__picture_cards__hw1-heartwise-picture-cards-pre-primary-plus"
+    },
+    {
+      "old_id": "6a51049ec819e33c89f27aed",
+      "old_title": "HRT-PP-PC",
+      "old_audience": "teacher_parent_only",
+      "superseded_by": "heartwise__pre_primary__picture_cards__hw1-heartwise-picture-cards-pre-primary-plus"
+    },
+    {
+      "old_id": "6a510498b279794fbf99e7b8",
+      "old_title": "Heartwise Session Lesson Bank 5 Pre Primary Plus 5-6y",
+      "old_audience": "teacher_parent_only",
+      "superseded_by": "heartwise__pre_primary__lesson_plan__hw1-heartwise-session-lesson-bank-pre-primary-plus"
+    },
+    {
+      "old_id": "6a5103d09e5414c3e71b795e",
+      "old_title": "Heartwise Heart Workbook 4 Bright Bloomers 4-5y",
+      "old_audience": "teacher_parent_only",
+      "superseded_by": "heartwise__bright_bloomers__workbook__hw1-my-heartwise-feelings-book-bright-bloomers"
+    },
+    {
+      "old_id": "6a5103b49ddc6b61831f548d",
+      "old_title": "HRT-BB-WB",
+      "old_audience": "teacher_parent_only",
+      "superseded_by": "heartwise__bright_bloomers__workbook__hw1-my-heartwise-feelings-book-bright-bloomers"
+    },
+    {
+      "old_id": "6a5103ae906a94a7a472544a",
+      "old_title": "HRT-BB-TG",
+      "old_audience": "teacher_parent_only",
+      "superseded_by": "heartwise__bright_bloomers__teacher_guide__hw1-heartwise-educator-s-guide-bright-bloomers"
+    },
+    {
+      "old_id": "6a5103ab43fe84c2c1f9cd2c",
+      "old_title": "HRT-BB-PCK",
+      "old_audience": "teacher_parent_only",
+      "superseded_by": "heartwise__bright_bloomers__picture_cards__hw1-heartwise-picture-cards-bright-bloomers"
+    },
+    {
+      "old_id": "6a510396cab27bde6555de26",
+      "old_title": "HRT-BB-PC",
+      "old_audience": "teacher_parent_only",
+      "superseded_by": "heartwise__bright_bloomers__picture_cards__hw1-heartwise-picture-cards-bright-bloomers"
+    },
+    {
+      "old_id": "6a5103934f5754c594d99290",
+      "old_title": "Heartwise Session Lesson Bank 4 Bright Bloomers 4-5y",
+      "old_audience": "teacher_parent_only",
+      "superseded_by": "heartwise__bright_bloomers__lesson_plan__hw1-heartwise-session-lesson-bank-bright-bloomers"
+    }
+  ],
+  "hw1_successors_now_ungated": [
+    {
+      "id": "6ab64783ce5cd7fdab59a95f",
+      "title": "HeartWise Picture Cards — Pre-Primary Plus",
+      "audience": "teacher",
+      "safeguarding_gated": false
+    },
+    {
+      "id": "6ab64775e521d630091822d8",
+      "title": "My HeartWise Book — Pre-Primary Plus",
+      "audience": "child",
+      "safeguarding_gated": false
+    },
+    {
+      "id": "6ab6476e3314abc912004941",
+      "title": "HeartWise Educator's Guide — Pre-Primary Plus",
+      "audience": "teacher",
+      "safeguarding_gated": false
+    },
+    {
+      "id": "6ab64769e4b2bd88bfc1c8f1",
+      "title": "HeartWise Session & Lesson Bank — Pre-Primary Plus",
+      "audience": "teacher",
+      "safeguarding_gated": false
+    },
+    {
+      "id": "6ab647611f0059ca83a7eac3",
+      "title": "HeartWise Picture Cards — Bright Bloomers",
+      "audience": "teacher",
+      "safeguarding_gated": false
+    },
+    {
+      "id": "6ab64752c6ecf62c65405c23",
+      "title": "My HeartWise Feelings Book — Bright Bloomers",
+      "audience": "child",
+      "safeguarding_gated": false
+    },
+    {
+      "id": "6ab6474b509fc68fda3f6084",
+      "title": "HeartWise Educator's Guide — Bright Bloomers",
+      "audience": "teacher",
+      "safeguarding_gated": false
+    },
+    {
+      "id": "6ab647488fdabb5afb31690b",
+      "title": "HeartWise Session & Lesson Bank — Bright Bloomers",
+      "audience": "teacher",
+      "safeguarding_gated": false
+    }
+  ],
+  "body_safety_placements_ungated": [
+    {
+      "id": "6ab648bf19f036645951f6b0",
+      "placement_id": "HW-PP-S088__child_workbook",
+      "doc_type": "child_workbook",
+      "audience": "child",
+      "title": "My body, my space",
+      "safeguarding_gated": false
+    },
+    {
+      "id": "6ab648bfc0a35e181027b146",
+      "placement_id": "HW-PP-S088__session_plan",
+      "doc_type": "session_plan",
+      "audience": "teacher",
+      "title": "My body belongs to me",
+      "safeguarding_gated": false
+    },
+    {
+      "id": "6ab64881a5612fab4479fb20",
+      "placement_id": "HW-BB-S094__child_workbook",
+      "doc_type": "child_workbook",
+      "audience": "child",
+      "title": "My body is mine: keeping safe",
+      "safeguarding_gated": false
+    },
+    {
+      "id": "6ab648818cf67a5e262d973b",
+      "placement_id": "HW-BB-S094__session_plan",
+      "doc_type": "session_plan",
+      "audience": "teacher",
+      "title": "My body, my space, my things",
+      "safeguarding_gated": false
+    },
+    {
+      "id": "6ab6484497a9ac8579663d44",
+      "placement_id": "HW-LW-S094__child_workbook",
+      "doc_type": "child_workbook",
+      "audience": "child",
+      "title": "My body is mine: keeping safe",
+      "safeguarding_gated": false
+    },
+    {
+      "id": "6ab6484321743ff3bf2ffcd5",
+      "placement_id": "HW-LW-S094__session_plan",
+      "doc_type": "session_plan",
+      "audience": "teacher",
+      "title": "My body belongs to me",
+      "safeguarding_gated": false
+    }
+  ],
+  "drafts_essential_review_for_publish": [
+    {
+      "id": "6a5140e41eea9dfbfb66d158",
+      "title": "WOR-LS-TG",
+      "pillar": "Wordwise",
+      "band": "little_sprouts",
+      "doc_type": "teacher_guide",
+      "pages": 14
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d15a",
+      "title": "WOR-LS-WB",
+      "pillar": "Wordwise",
+      "band": "little_sprouts",
+      "doc_type": "workbook",
+      "pages": 11
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d15c",
+      "title": "Wordwise LittleWonders 3-4y Year Map Curriculum",
+      "pillar": "Wordwise",
+      "band": "little_wonders",
+      "doc_type": "blueprint",
+      "pages": 183
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d15e",
+      "title": "Wordwise LittleWonders 3-4y Classroom Set",
+      "pillar": "Wordwise",
+      "band": "little_wonders",
+      "doc_type": "other",
+      "pages": 8
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d164",
+      "title": "WOR-LW-TG",
+      "pillar": "Wordwise",
+      "band": "little_wonders",
+      "doc_type": "teacher_guide",
+      "pages": 17
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d166",
+      "title": "WOR-LW-WB",
+      "pillar": "Wordwise",
+      "band": "little_wonders",
+      "doc_type": "workbook",
+      "pages": 13
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d168",
+      "title": "Wordwise PrePrimaryPlus 5-6y Year Map Curriculum",
+      "pillar": "Wordwise",
+      "band": "pre_primary",
+      "doc_type": "blueprint",
+      "pages": 206
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d16a",
+      "title": "Wordwise PrePrimaryPlus 5-6y Classroom Set",
+      "pillar": "Wordwise",
+      "band": "pre_primary",
+      "doc_type": "other",
+      "pages": 15
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d170",
+      "title": "WOR-PP-TG",
+      "pillar": "Wordwise",
+      "band": "pre_primary",
+      "doc_type": "teacher_guide",
+      "pages": 21
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d172",
+      "title": "WOR-PP-WB",
+      "pillar": "Wordwise",
+      "band": "pre_primary",
+      "doc_type": "workbook",
+      "pages": 13
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d174",
+      "title": "Wordwise TinyRoots 6m-2y Year Map Curriculum",
+      "pillar": "Wordwise",
+      "band": "tiny_roots",
+      "doc_type": "blueprint",
+      "pages": 140
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d178",
+      "title": "WOR-TR-TG",
+      "pillar": "Wordwise",
+      "band": "tiny_roots",
+      "doc_type": "teacher_guide",
+      "pages": 14
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d17a",
+      "title": "WOR-TR-WB",
+      "pillar": "Wordwise",
+      "band": "tiny_roots",
+      "doc_type": "workbook",
+      "pages": 17
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d17f",
+      "title": "WordWise Lighthouse 4 Confusable Letters and Reversals Kit",
+      "pillar": "Wordwise Lighthouse",
+      "band": "",
+      "doc_type": "other",
+      "pages": 25
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d180",
+      "title": "WordWise Lighthouse 5 Sound-Sticks Kit",
+      "pillar": "Wordwise Lighthouse",
+      "band": "",
+      "doc_type": "other",
+      "pages": 16
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d181",
+      "title": "WordWise Lighthouse 6 Spelling Kit",
+      "pillar": "Wordwise Lighthouse",
+      "band": "",
+      "doc_type": "other",
+      "pages": 13
+    },
+    {
+      "id": "6a5140e41eea9dfbfb66d185",
+      "title": "WordWise Lighthouse 1 Method and Concept Guide",
+      "pillar": "Wordwise Lighthouse",
+      "band": "",
+      "doc_type": "teacher_guide",
+      "pages": 30
+    },
+    {
+      "id": "6a5109253390528b1fd97c94",
+      "title": "Wordwise LittleSprouts 2-3y Letter and Sound Play",
+      "pillar": "Wordwise",
+      "band": "little_sprouts",
+      "doc_type": "other",
+      "pages": 11
+    },
+    {
+      "id": "6a510922e89c4469529ce7e5",
+      "title": "Wordwise LittleSprouts 2-3y Classroom Set",
+      "pillar": "Wordwise",
+      "band": "little_sprouts",
+      "doc_type": "other",
+      "pages": 7
+    },
+    {
+      "id": "6a510904bf36dc920bb4a1a2",
+      "title": "Wordwise LittleSprouts 2-3y Year Map Curriculum",
+      "pillar": "Wordwise",
+      "band": "little_sprouts",
+      "doc_type": "blueprint",
+      "pages": 147
+    },
+    {
+      "id": "6a5108f40b0a9b66358c259d",
+      "title": "WOR-BB-WB",
+      "pillar": "Wordwise",
+      "band": "bright_bloomers",
+      "doc_type": "workbook",
+      "pages": 13
+    },
+    {
+      "id": "6a5108ea9c0c265f1651d2e4",
+      "title": "WOR-BB-TG",
+      "pillar": "Wordwise",
+      "band": "bright_bloomers",
+      "doc_type": "teacher_guide",
+      "pages": 19
+    },
+    {
+      "id": "6a5108ce658ca1f622c6dfa7",
+      "title": "Wordwise BrightBloomers 4-5y Classroom Set",
+      "pillar": "Wordwise",
+      "band": "bright_bloomers",
+      "doc_type": "other",
+      "pages": 24
+    },
+    {
+      "id": "6a5108b662d4e1d78d4bf6d0",
+      "title": "Wordwise BrightBloomers 4-5y Year Map Curriculum",
+      "pillar": "Wordwise",
+      "band": "bright_bloomers",
+      "doc_type": "blueprint",
+      "pages": 186
+    },
+    {
+      "id": "6a5108533fe72527af1ac569",
+      "title": "Wordwise WordSeeds Seeding Foundation Book",
+      "pillar": "Wordwise",
+      "band": "",
+      "doc_type": "other",
+      "pages": 14
+    },
+    {
+      "id": "6a51084c6d68b433759b2003",
+      "title": "Wordwise The Encoding and Spelling Pack",
+      "pillar": "Wordwise",
+      "band": "",
+      "doc_type": "other",
+      "pages": 35
+    },
+    {
+      "id": "6a510845f3805ca5415b53a0",
+      "title": "Wordwise Our Talking Circle Oracy Book",
+      "pillar": "Wordwise",
+      "band": "",
+      "doc_type": "other",
+      "pages": 14
+    },
+    {
+      "id": "6a51082ce76b860b30beaf64",
+      "title": "Wordwise Drawing into Writing Composition Book",
+      "pillar": "Wordwise",
+      "band": "",
+      "doc_type": "other",
+      "pages": 13
+    },
+    {
+      "id": "6a5107f2b79892dd47a21780",
+      "title": "Wordwise Forest Letters and Sounds Activity Guide",
+      "pillar": "Wordwise",
+      "band": "",
+      "doc_type": "guidebook",
+      "pages": 54
+    },
+    {
+      "id": "6a5107ee669645c91e5adc15",
+      "title": "Wordwise Every Child a Reader Inclusion Guide",
+      "pillar": "Wordwise",
+      "band": "",
+      "doc_type": "guidebook",
+      "pages": 17
+    },
+    {
+      "id": "6a5107e5b52f6211b59ee23d",
+      "title": "Wordwise Concept and Curriculum Guide",
+      "pillar": "Wordwise",
+      "band": "",
+      "doc_type": "blueprint",
+      "pages": 387
+    },
+    {
+      "id": "6a5106bc852c3d16bffe09b1",
+      "title": "Numinature Step One Project Based Maths Pack",
+      "pillar": "Numinature Step One",
+      "band": "",
+      "doc_type": "other",
+      "pages": 12
+    },
+    {
+      "id": "6a5106b77fd370cd6f0def0e",
+      "title": "Numinature Step One Language MentalMaths Nature Banks",
+      "pillar": "Numinature Step One",
+      "band": "",
+      "doc_type": "other",
+      "pages": 20
+    },
+    {
+      "id": "6a5106b004c711e5e2e07689",
+      "title": "Numinature Step One Teacher Training Guide",
+      "pillar": "Numinature Step One",
+      "band": "",
+      "doc_type": "guidebook",
+      "pages": 4
+    },
+    {
+      "id": "6a51035b01c4ca9e4df7a66d",
+      "title": "The Finnish Pedagogy Curriculum v6",
+      "pillar": "Foundation",
+      "band": "",
+      "doc_type": "other",
+      "pages": 259
+    },
+    {
+      "id": "6a51034f8d59400f5880c693",
+      "title": "Finniped Master Plan Guide v5",
+      "pillar": "Foundation",
+      "band": "",
+      "doc_type": "guidebook",
+      "pages": 169
+    },
+    {
+      "id": "6a510345ad54bd7351322d34",
+      "title": "Finniped Master Plan Guide v4 Ultimate",
+      "pillar": "Foundation",
+      "band": "",
+      "doc_type": "guidebook",
+      "pages": 147
+    },
+    {
+      "id": "6a51033f4d96be9c66c0ec91",
+      "title": "Finniped Master Plan Guide v3",
+      "pillar": "Foundation",
+      "band": "",
+      "doc_type": "guidebook",
+      "pages": 51
+    },
+    {
+      "id": "6a5102a5120fea1253e11f8f",
+      "title": "Forestwise Tropical Safety Handbook",
+      "pillar": "Forestwise",
+      "band": "",
+      "doc_type": "guidebook",
+      "pages": 10
+    },
+    {
+      "id": "6a5102a11134275c79fc225a",
+      "title": "Forestwise Forest Activity Compendium",
+      "pillar": "Forestwise",
+      "band": "",
+      "doc_type": "guidebook",
+      "pages": 32
+    }
+  ],
+  "foundation_multiple_versions_draft": [
+    {
+      "id": "6a51035b01c4ca9e4df7a66d",
+      "title": "The Finnish Pedagogy Curriculum v6",
+      "status": "draft"
+    },
+    {
+      "id": "6a51034f8d59400f5880c693",
+      "title": "Finniped Master Plan Guide v5",
+      "status": "draft"
+    },
+    {
+      "id": "6a510345ad54bd7351322d34",
+      "title": "Finniped Master Plan Guide v4 Ultimate",
+      "status": "draft"
+    },
+    {
+      "id": "6a51033f4d96be9c66c0ec91",
+      "title": "Finniped Master Plan Guide v3",
+      "status": "draft"
+    }
+  ],
+  "dangling_replaces": [
+    {
+      "id": "6ab566dac64b719620a698cc",
+      "title": "ZZ schema test (delete me)",
+      "status": "archived",
+      "replaces": [
+        "x"
+      ],
+      "note": "test record; replaces [x] points nowhere; delete record"
+    }
+  ],
+  "treasure_book_short": [
+    {
+      "id": "6a5106dde9224d0391334833",
+      "title": "My First Heartwise Treasure Book",
+      "pages": 2,
+      "note": "2 pages vs 5-6 for the other My First Treasure Books"
+    }
+  ]
+}
