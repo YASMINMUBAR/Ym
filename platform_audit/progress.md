@@ -30,3 +30,8 @@ Plan: three rounds of audit -> fix -> verify. Approved by Yasmin on 2026-09-25.
 - Known gap: School Admin account has no school_id, so it now sees no children.
 - [x] Batch 2 content fixes done + checkpoint 'Round 1 batch 2'. See round1/content_fixes.md.
 - [x] Batch 3 curriculum code done + checkpoint 'Round 1 batch 3'. See round1/curriculum_fixes.md. ROUND 1 COMPLETE.
+
+## Round 2
+- [ ] Security/routing/speed fixes (backend function auth, sidebar dead links, lazy-loaded pages, /parent/admin removed) — in progress.
+- [ ] Remaining curriculum/library/dashboard/season fixes — in progress.
+- [ ] Round 2 re-audit (read-only) after both finish.
