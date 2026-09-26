@@ -38,3 +38,4 @@ Plan: three rounds of audit -> fix -> verify. Approved by Yasmin on 2026-09-25.
 - [x] Yasmin gave standing approval for all edits (2026-09-25); still no deleting, no publishing, no passwords.
 - [x] L-06: archived 5 older Numenature books. L-05: moved 14 Bodywise/Artelier books to the age band in their titles.
 - [!] Container restarted mid-Round 2. Work that had landed was checked (lint + build pass, backend auth diff reviewed) and saved as checkpoint "Round 2 partial". Both Round 2 helpers restarted from where they stopped; they now log each step to round2/*.md.
+- [x] Second restart. Logged work verified (lint + build pass) and saved as checkpoint 'Round 2: more backend auth checks...'. Remaining: App.jsx lazy loading, /parent/admin route, unused imports, eslint config, jszip, canonical/og, public pages; remaining season/placeholder grep; C-06/C-07/C-16/C-18.
