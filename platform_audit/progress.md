@@ -45,3 +45,4 @@ Plan: three rounds of audit -> fix -> verify. Approved by Yasmin on 2026-09-25.
 - [x] RLS added: School (read all, write admins / own school admin), ParentDashboardSnapshot, SavedQuestion, ParentSubscriptionPreference (owner + admins), SpecialTimeSession (owner + admins read), ActivityCompletion (staff + creator).
 - [ ] Next: AIContentLog, Printable, FinnipedResource/FinnipedPlacement read = staff or published (L-15); season words in content records (C-16); security scan (X-16); final report.
 - [x] RLS: AIContentLog (admins + own-school admin read), Printable (staff write).
+- [x] RLS: FinnipedPlacement read = staff or status published (L-15 part 1). Next: FinnipedResource same rule.
