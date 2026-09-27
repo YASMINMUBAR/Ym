@@ -48,3 +48,4 @@ Plan: three rounds of audit -> fix -> verify. Approved by Yasmin on 2026-09-25.
 - [x] RLS: FinnipedPlacement read = staff or status published (L-15 part 1). Next: FinnipedResource same rule.
 - [?] FinnipedResource read rule (staff or published) was sent but the connection dropped; Base44 sandbox then timed out. VERIFY next: grep data.status in base44/entities/FinnipedResource.jsonc; re-send if missing (schema in scratchpad r3_FinnipedResource.json). Then checkpoint "Round 3 privacy rules".
 - [ ] Remaining Round 3: C-16 season words in content records, X-16 security scan, X-03 public pages, final report 04_REPORT_FOR_YASMIN.md.
+- [x] Checkpoint 'Round 3: privacy rules...'. FinnipedResource read rule NOT yet applied (connection dropped) — retry next. Final report written: 04_REPORT_FOR_YASMIN.md.
