@@ -40,3 +40,7 @@ Plan: three rounds of audit -> fix -> verify. Approved by Yasmin on 2026-09-25.
 - [!] Container restarted mid-Round 2. Work that had landed was checked (lint + build pass, backend auth diff reviewed) and saved as checkpoint "Round 2 partial". Both Round 2 helpers restarted from where they stopped; they now log each step to round2/*.md.
 - [x] Second restart. Logged work verified (lint + build pass) and saved as checkpoint 'Round 2: more backend auth checks...'. Remaining: App.jsx lazy loading, /parent/admin route, unused imports, eslint config, jszip, canonical/og, public pages; remaining season/placeholder grep; C-06/C-07/C-16/C-18.
 - [x] ROUND 2 COMPLETE: lazy loading, /parent/admin removed, canonical/og. Checkpoint 'Round 2 complete'.
+
+## Round 3
+- [x] RLS added: School (read all, write admins / own school admin), ParentDashboardSnapshot, SavedQuestion, ParentSubscriptionPreference (owner + admins), SpecialTimeSession (owner + admins read), ActivityCompletion (staff + creator).
+- [ ] Next: AIContentLog, Printable, FinnipedResource/FinnipedPlacement read = staff or published (L-15); season words in content records (C-16); security scan (X-16); final report.
